@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "Steve_ab's",
+    "name": "ab-Hack",
+    "description": "ab Client",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "ab-Hack.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+	  "Steve_ab",
+        "4i04",
+        "han138",
+        "NilTwo_",
+	    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
